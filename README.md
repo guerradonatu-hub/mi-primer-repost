@@ -3,3 +3,4 @@ Hay un punto a las 7,000 RPM donde todo se desvanece. La máquina se vuelve ingr
 mkdir Mi_primer_repo
 cd Mi_primer_repo
 git init
+git remote add origin git@github.com:User/Mi_primer_repo.git
