@@ -5,3 +5,4 @@ cd Mi_primer_repo
 git init
 git remote add origin git@github.com:User/Mi_primer_repo.git
 git remote -v
+ls -al ~/.ssh
